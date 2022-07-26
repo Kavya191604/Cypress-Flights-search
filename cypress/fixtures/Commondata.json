@@ -1,0 +1,29 @@
+{
+    "FROM": "ATL",
+    "TO": "HNL",
+    "HOTELLOCATION":"HNL",
+    "Passengers":"2 Adults",
+    "skymiles":"2667230524",
+    "Password":"Delta999",
+    "promocode":"SM250",
+    "Passengerone":{
+        "Prefixone":"Miss",
+        "FirstNameone":"Test",
+        "LastNameone":"User",
+        "Genderone":"Male"
+       },
+        "FirstNametwo":"Testone",
+        "LastNametwo":"Userone",
+        "Gendertwo":"Male",
+        "Phone":"2234567890",
+        "Address":"816 windy ridge ln",
+        "City":"Atlanta",
+        "Email":"test123@gmail.com",
+        "Confirmemail":"test123@gmail.com",
+        "Zipcode":"30339",
+        "Childprefix":"Mr",
+        "Cardnumber":"370100000000000",
+        "Securitycode":"880"
+
+
+      }

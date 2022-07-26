@@ -1,0 +1,29 @@
+{
+  
+  "numTestsKeptInMemory": 0,
+  "chromeWebSecurity": false ,
+
+ "pageLoadTimeout": 100000,
+  "defaultCommandTimeout": 50000,
+  "reporter": "cypress-mochawesome-reporter", 
+ "reporterOptions": 
+ {
+   "charts": true, 
+ "overwrite": false,
+ "html": false,
+  "json": true,
+ "reportPageTitle": "Regression Delta Test case",
+ "reportFilename": "[status]_[datetime]-[name]-report", 
+ "autoOpen":"true", 
+ "code":"false" 
+  },
+  "retries": {
+    "runMode": 0,
+    "openMode": 0
+  }
+  
+  
+  
+    
+  }
+
